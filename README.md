@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kamilg-o
 - 👀 I'm interested in new technologies, space missions. Coding gives me a lot of satisfaction and solving difficult problems is something I love.
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python,Java, 
 - 📫  kamilgrajko@interia.pl
+- 
